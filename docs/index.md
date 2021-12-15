@@ -3,8 +3,8 @@
 Bienvenido! Actualmente estamos trabajando en un nuevo sitio para la
 maestría donde podrás encontrar información con respecto a:
 
-- El proceso de admisión del programa. 
-- Contenido académico como plan de estudios, y temarios de las materias. 
+- El proceso de admisión del programa;
+- Contenido académico como plan de estudios, y temarios de las materias;
 - Los profesores asociados al programa académico (áreas de especialización, investigación, etc.). 
 
 
