@@ -20,4 +20,4 @@ De igual manera, no dudes en contactarnos a través de los siguientes correos el
 
 - [**Dirección del programa**](mailto:alfredo.garbuno@itam.mx); 
 - [**Coordinación**](mailto:mcd@itam.mx); 
-- [**Admisiones**](lreynamol@itam.mx).
+- [**Admisiones**](mailto:lreynamol@itam.mx).
