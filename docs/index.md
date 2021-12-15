@@ -18,9 +18,9 @@ del ITAM donde encontrarás información del:
 
 De igual manera, no dudes en contactarnos a través de los siguientes correos electrónicos:
 
-- [**Dirección del programa**:](mailto:alfredo.garbuno@itam.mx); 
-- [**Coordinación**:](mailto:mcd@itam.mx); 
-- [**Admisiones**:](lreynamol@itam.mx).
+- [**Dirección del programa**](mailto:alfredo.garbuno@itam.mx); 
+- [**Coordinación**](mailto:mcd@itam.mx); 
+- [**Admisiones**](lreynamol@itam.mx).
 
 
 <!-- Bloque de código para el form -->
