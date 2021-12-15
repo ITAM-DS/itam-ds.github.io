@@ -1,6 +1,6 @@
 # Maestría en Ciencia de Datos (ITAM)
 
-Bienvenido! Actualmente estamos trabajando en un nuevo sitio para la
+¡Bienvenide! Actualmente estamos trabajando en un nuevo sitio para la
 maestría donde podrás encontrar información con respecto a:
 
 - El proceso de admisión del programa;
