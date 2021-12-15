@@ -8,3 +8,17 @@ maestría donde podrás encontrar información relevante con respecto a:
 - Información sobre los profesores asociados al programa académico. 
 
 
+Puedes consultar el sitio de posgrados del instituto donde encontrarás información 
+del: 
+
+- Proceso de admisión; 
+- Folleto informativo; 
+- Calendario (por actualizar);
+- _Template_ de la carta de motivos. 
+
+De igual manera, no dudes en contactarnos a través de los siguientes correos electrónicos:
+
+- Dirección del programa: alfredo[dot]garbuno[at]itam[dot]mx; 
+- Coordinación: mcd[at]itam[dot]mx; 
+- Admisiones: lreynamol[at]itam[dot]mx.
+
