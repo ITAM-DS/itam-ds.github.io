@@ -8,8 +8,8 @@ maestría donde podrás encontrar información relevante con respecto a:
 - Información sobre los profesores asociados al programa académico. 
 
 
-Puedes consultar el sitio de posgrados del instituto donde encontrarás información 
-del: 
+Puedes consultar el [sitio de posgrados](https://posgrados.itam.mx/)
+del instituto donde encontrarás información del:
 
 - Proceso de admisión; 
 - Folleto informativo; 
