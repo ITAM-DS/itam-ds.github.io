@@ -18,7 +18,7 @@ del instituto donde encontrarás información del:
 
 De igual manera, no dudes en contactarnos a través de los siguientes correos electrónicos:
 
-- Dirección del programa: alfredo[dot]garbuno[at]itam[dot]mx; 
-- Coordinación: mcd[at]itam[dot]mx; 
-- Admisiones: lreynamol[at]itam[dot]mx.
+- **Dirección del programa**: alfredo[dot]garbuno[at]itam[dot]mx; 
+- **Coordinación**: mcd[at]itam[dot]mx; 
+- **Admisiones**: lreynamol[at]itam[dot]mx.
 
